@@ -1,12 +1,12 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "channel": "stable",
   "stable": {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.14 — Update-Fix: UAC/Admin (kein 48%-Hang), nur Firmware-Updater-Prozess beenden (SkyPanel bleibt offen), eigener Update-Dialog-Titel.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.14/SkyPanelFirmwareUpdater_1.0.14.zip",
-    "sha256": "8fb9f36065e4556939073e6b5ccd42544d7f61bdf289aebd5f1e80aeabfc8a14",
-    "size": 213951123
+    "changelog": "Firmware Updater 1.0.15 — Installation wie Crew Announcement nach AppData\\Local\\Programs (ohne Admin). In-App-Updates ohne UAC.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.15/SkyPanelFirmwareUpdater_1.0.15.zip",
+    "sha256": "b531f3d9b54b08f8fb8fcf7079762c14b60ef06eb4254616e2e04c1538fc7072",
+    "size": 213953067
   }
 }
