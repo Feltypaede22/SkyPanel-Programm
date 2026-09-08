@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.11",
+    "version": "0.5.12",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.11 — Auto MIP/OHP/PED bei Panel-Erkennung, EEPROM-SN beim Flash speichern und bei Update behalten, COM-Migration mit Freigabe alter Ports, Geraete bleiben in pcbs.json.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.11/SkyPanel_0.5.11.zip",
-    "sha256": "719b64ca117732bb465e2eff4d58d4cc6701ab69baa77dc4228e6af147bdd7ca",
-    "size": 214427397
+    "changelog": "SkyPanel 0.5.12 — Update-Fix: UAC/Admin fuer Program Files (kein Haengen bei 48%), nur SkyPanel.exe beenden (Firmware Updater bleibt offen), klarer Update-Dialog.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.12/SkyPanel_0.5.12.zip",
+    "sha256": "c519714b305184d268a3c57fa5ef0f6a6f08d8284795416c197d0a50c3511d71",
+    "size": 214434144
   }
 }
