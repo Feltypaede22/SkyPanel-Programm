@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.6",
+    "version": "0.5.7",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.6: In-App-Updater unterstuetzt jetzt auch Firmware Updater; Update-Fix.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.6/SkyPanel_0.5.6.zip",
-    "sha256": "da1056deea5932dbfdddd6857b17839b69727545743d7d2b8bebb35e4a35b0d5",
-    "size": 214203471
+    "changelog": "SkyPanel 0.5.7: Hilfe-Update zeigt Dialog, schneller Download (curl), nur eigene App schliessen, robusteres ZIP-Entpacken.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.7/SkyPanel_0.5.7.zip",
+    "sha256": "f8b8d286761584696d1df49a54c38beaaad0d70d0b520ce45d3907e43e432054",
+    "size": 214207766
   }
 }
