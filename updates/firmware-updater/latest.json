@@ -4,9 +4,9 @@
   "stable": {
     "version": "1.0.4",
     "channel": "stable",
-    "changelog": "SkyPanel Firmware Updater 1.0.4 — Update-Quelle: Feltypaede22/SkyPanel-Programm.",
+    "changelog": "SkyPanel Firmware Updater 1.0.4",
     "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.4/SkyPanelFirmwareUpdater_1.0.4.zip",
-    "sha256": "",
+    "sha256": "3d26c6d4843b38446f4ddb36b8c14c182fd8f0438106bb31bd0b9fcfd06bcbd8",
     "size": 169236094
   }
 }
