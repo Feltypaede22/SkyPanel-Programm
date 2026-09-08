@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.8",
+    "version": "0.5.9",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.8: Firmware-Namen=Panelname, Flash auto von GitHub, Update-Warnung (kein Auto-Flash im Flug), schnelleres Update.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.8/SkyPanel_0.5.8.zip",
-    "sha256": "4e2e4c2ae293cb38267f85ddf4d9f26a59d9e077dfac9e72015fead956afd87b",
-    "size": 214255264
+    "changelog": "SkyPanel 0.5.9: Update-Check fix (kein CDN-Stuck), Panelnamen=Firmwaredatei, Mapping Labels korrekt.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.9/SkyPanel_0.5.9.zip",
+    "sha256": "7cd58d8899968b3dde47669baa0b2c2d68a29c8b57bfbf53375afe82d24b8df5",
+    "size": 214257144
   }
 }
