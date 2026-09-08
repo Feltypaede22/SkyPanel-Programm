@@ -1,0 +1,11 @@
+{
+  "stable": {
+    "version": "0.5.2",
+    "channel": "stable",
+    "mandatory": false,
+    "changelog": "SkyPanel 0.5.2 — Update-Quelle: Feltypaede22/SkyPanel-Programm.",
+    "download_url": "",
+    "sha256": "",
+    "size": 0
+  }
+}
