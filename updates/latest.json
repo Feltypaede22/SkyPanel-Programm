@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.3: Panel-Hub leer starten, Flash->SN/COM, Audio-Routing, Update-Repos SkyPanel-Programm + SkyPanel-Firmware, CPT/FO Labels.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.3/SkyPanel_0.5.3.zip",
-    "sha256": "2a9afabd67d04be003c5b62d73ebb1680fa7b8698f9f3890233a0926a5645698",
-    "size": 214195674
+    "changelog": "SkyPanel 0.5.4: Update-Download nach LOCALAPPDATA (kein WinError 5).",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.4/SkyPanel_0.5.4.zip",
+    "sha256": "9af289ed493169d5717db60ccabee9a59a6f9372bcb1d46f5ab4d608e965298c",
+    "size": 214199045
   }
 }
