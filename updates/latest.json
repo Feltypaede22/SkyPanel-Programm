@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.4: Update-Download nach LOCALAPPDATA (kein WinError 5).",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.4/SkyPanel_0.5.4.zip",
-    "sha256": "9af289ed493169d5717db60ccabee9a59a6f9372bcb1d46f5ab4d608e965298c",
-    "size": 214199045
+    "changelog": "SkyPanel 0.5.5: leere PCB-Liste bis Flash+EEPROM; Audio-Routing in Einstellungen; Live Dialog entfernt; Serial Scan in Settings.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.5/SkyPanel_0.5.5.zip",
+    "sha256": "997a4dc4bb97d363ca18aef1412a36a16d7027eee90f2d2bf4892a93548dd67d",
+    "size": 214199743
   }
 }
