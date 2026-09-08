@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "channel": "stable",
   "stable": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.9: Hilfe-Update Dialog, schneller Download, nur eigene App schliessen, robusteres ZIP-Entpacken.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.9/SkyPanelFirmwareUpdater_1.0.9.zip",
-    "sha256": "4660e8bdcc22780f6d844915be1280c5568ec40e6c1c8e535207e039edf0ba0b",
-    "size": 213930132
+    "changelog": "Firmware Updater 1.0.10: Panel=Datei (Captain RMP.hex), Auto-Download von GitHub beim Auswaehlen, Version sichtbar, Update-Warnung, Buttons mittig.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.10/SkyPanelFirmwareUpdater_1.0.10.zip",
+    "sha256": "68afdfbaa9a191f8e324e2e53fb80c83e5b1bd6f7c2f3042be7204e31156a760",
+    "size": 213941601
   }
 }
