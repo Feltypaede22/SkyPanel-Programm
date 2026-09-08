@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.10",
+    "version": "0.5.11",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.10: Update-Check via GitHub API (kein CDN-Stuck), Desktop-Button weg, Panelnamen=Firmware.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.10/SkyPanel_0.5.10.zip",
-    "sha256": "234e390d09afd0a20343f5eb00b3e9b0620014f92253077ddca15875a5a492f3",
-    "size": 214281830
+    "changelog": "SkyPanel 0.5.11 — Auto MIP/OHP/PED bei Panel-Erkennung, EEPROM-SN beim Flash speichern und bei Update behalten, COM-Migration mit Freigabe alter Ports, Geraete bleiben in pcbs.json.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.11/SkyPanel_0.5.11.zip",
+    "sha256": "719b64ca117732bb465e2eff4d58d4cc6701ab69baa77dc4228e6af147bdd7ca",
+    "size": 214427397
   }
 }
