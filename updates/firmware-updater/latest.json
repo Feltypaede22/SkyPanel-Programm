@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "channel": "stable",
   "stable": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.8: In-App-Update Fix (Updater akzeptiert SkyPanelFirmwareUpdater.exe).",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.8/SkyPanelFirmwareUpdater_1.0.8.zip",
-    "sha256": "4461075c91eea0d3236ae3ed78ecc644ea0610dc0d45506aa52a47fef020a060",
-    "size": 169250659
+    "changelog": "Firmware Updater 1.0.9: Hilfe-Update Dialog, schneller Download, nur eigene App schliessen, robusteres ZIP-Entpacken.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.9/SkyPanelFirmwareUpdater_1.0.9.zip",
+    "sha256": "4660e8bdcc22780f6d844915be1280c5568ec40e6c1c8e535207e039edf0ba0b",
+    "size": 213930132
   }
 }
