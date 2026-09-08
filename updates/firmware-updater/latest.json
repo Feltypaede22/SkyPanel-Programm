@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "channel": "stable",
   "stable": {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.11: Update-Check fix, kein Desktop-Speichern, Auto GitHub Flash, Dateiname=Panelname.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.11/SkyPanelFirmwareUpdater_1.0.11.zip",
-    "sha256": "219e521a9873f878d374af1e87cd881578d5b947a0e99ba4e2b539dcaf9fab0f",
-    "size": 213943354
+    "changelog": "Firmware Updater 1.0.12: Update-Check via GitHub API, kein Desktop-Speichern, Auto-Flash von GitHub.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.12/SkyPanelFirmwareUpdater_1.0.12.zip",
+    "sha256": "48662d6100c0b8821a7b51a1b673d9564fa07bddaf04574d005e964230ef3c2d",
+    "size": 213942557
   }
 }
