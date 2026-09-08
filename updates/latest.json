@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.7",
+    "version": "0.5.8",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.7: Hilfe-Update zeigt Dialog, schneller Download (curl), nur eigene App schliessen, robusteres ZIP-Entpacken.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.7/SkyPanel_0.5.7.zip",
-    "sha256": "f8b8d286761584696d1df49a54c38beaaad0d70d0b520ce45d3907e43e432054",
-    "size": 214207766
+    "changelog": "SkyPanel 0.5.8: Firmware-Namen=Panelname, Flash auto von GitHub, Update-Warnung (kein Auto-Flash im Flug), schnelleres Update.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.8/SkyPanel_0.5.8.zip",
+    "sha256": "4e2e4c2ae293cb38267f85ddf4d9f26a59d9e077dfac9e72015fead956afd87b",
+    "size": 214255264
   }
 }
