@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "channel": "stable",
   "stable": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "channel": "stable",
-    "changelog": "SkyPanel Firmware Updater 1.0.5: CPT/FO Katalog, Manifest statt App-ZIP, Update-Repos SkyPanel-Programm + SkyPanel-Firmware.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.5/SkyPanelFirmwareUpdater_1.0.5.zip",
-    "sha256": "9657e7ca4dcf6e5758f4af8a0615d64fc4e16e40583b8a224d8be14d318b1abe",
-    "size": 169246874
+    "changelog": "Firmware Updater 1.0.6: Update-Download nach %%LOCALAPPDATA%% (kein WinError 5 in Program Files).",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.6/SkyPanelFirmwareUpdater_1.0.6.zip",
+    "sha256": "471039d01fabb6e49c7ea4cf6a4c87795aeea84832c4de6109e9b8b874f43415",
+    "size": 169248624
   }
 }
