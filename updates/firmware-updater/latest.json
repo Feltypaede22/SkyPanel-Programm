@@ -1,12 +1,12 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "channel": "stable",
   "stable": {
-    "version": "1.0.12",
+    "version": "1.0.13",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.12: Update-Check via GitHub API, kein Desktop-Speichern, Auto-Flash von GitHub.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.12/SkyPanelFirmwareUpdater_1.0.12.zip",
-    "sha256": "48662d6100c0b8821a7b51a1b673d9564fa07bddaf04574d005e964230ef3c2d",
-    "size": 213942557
+    "changelog": "Firmware Updater 1.0.13 — Auto MIP/OHP/PED nach Flash/Erkennung, EEPROM-SN speichern und bei FW-Update behalten, COM-Wechsel mit Unbind alter Ports.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.13/SkyPanelFirmwareUpdater_1.0.13.zip",
+    "sha256": "281790432e674bb707404b3f4578e45c1d9a78b3bb764a8d8f7baa48954f4cfd",
+    "size": 213942501
   }
 }
