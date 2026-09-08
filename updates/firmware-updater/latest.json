@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "channel": "stable",
   "stable": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "channel": "stable",
-    "changelog": "Firmware Updater 1.0.6: Update-Download nach %%LOCALAPPDATA%% (kein WinError 5 in Program Files).",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.6/SkyPanelFirmwareUpdater_1.0.6.zip",
-    "sha256": "471039d01fabb6e49c7ea4cf6a4c87795aeea84832c4de6109e9b8b874f43415",
-    "size": 169248624
+    "changelog": "Firmware Updater 1.0.7: gruen GitHub-Status, bessere Download-Buttons, i18n Flash/Protokoll.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/fw-app-v1.0.7/SkyPanelFirmwareUpdater_1.0.7.zip",
+    "sha256": "4b38ac8091025cd294083277679856af03dc0fe65c87712ee1ebdeaa90bf0c70",
+    "size": 169251929
   }
 }
