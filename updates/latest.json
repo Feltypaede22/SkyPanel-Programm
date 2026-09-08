@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.12",
+    "version": "0.5.13",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.12 — Update-Fix: UAC/Admin fuer Program Files (kein Haengen bei 48%), nur SkyPanel.exe beenden (Firmware Updater bleibt offen), klarer Update-Dialog.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.12/SkyPanel_0.5.12.zip",
-    "sha256": "c519714b305184d268a3c57fa5ef0f6a6f08d8284795416c197d0a50c3511d71",
-    "size": 214434144
+    "changelog": "SkyPanel 0.5.13 — Installation wie Crew Announcement nach AppData\\Local\\Programs (ohne Admin). In-App-Updates ohne UAC.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.13/SkyPanel_0.5.13.zip",
+    "sha256": "d1fb530c471cc1f82763fbb90cfcc8f4a368036fcc9a5be32e41df279b2eefa8",
+    "size": 214432572
   }
 }
