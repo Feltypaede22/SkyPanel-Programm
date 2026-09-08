@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.5.5",
+    "version": "0.5.6",
     "channel": "stable",
     "mandatory": false,
-    "changelog": "SkyPanel 0.5.5: leere PCB-Liste bis Flash+EEPROM; Audio-Routing in Einstellungen; Live Dialog entfernt; Serial Scan in Settings.",
-    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.5/SkyPanel_0.5.5.zip",
-    "sha256": "997a4dc4bb97d363ca18aef1412a36a16d7027eee90f2d2bf4892a93548dd67d",
-    "size": 214199743
+    "changelog": "SkyPanel 0.5.6: In-App-Updater unterstuetzt jetzt auch Firmware Updater; Update-Fix.",
+    "download_url": "https://github.com/Feltypaede22/SkyPanel-Programm/releases/download/v0.5.6/SkyPanel_0.5.6.zip",
+    "sha256": "da1056deea5932dbfdddd6857b17839b69727545743d7d2b8bebb35e4a35b0d5",
+    "size": 214203471
   }
 }
